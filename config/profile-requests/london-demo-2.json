@@ -1,0 +1,41 @@
+{
+    "accessModes": "WALK",
+    "bikeSpeed": 4.166666666666667,
+    "date": "2015-11-16",
+    "decayFunction": {
+      "type": "logistic",
+      "standardDeviationMinutes": 1,
+      "widthMinutes": 10
+    },
+    "destinationPointSetIds": [
+      "5b6afe1e50c63e060453ae2e"
+    ],
+    "directModes": "WALK",
+    "egressModes": "WALK",
+    "fromTime": 25200,
+    "maxBikeTime": 20,
+    "maxRides": 4,
+    "maxWalkTime": 20,
+    "monteCarloDraws": 200,
+    "percentiles": [
+      5,
+      25,
+      50,
+      75,
+      95
+    ],
+    "toTime": 32400,
+    "transitModes": "BUS,TRAM,RAIL,SUBWAY,FERRY,CABLE_CAR,GONDOLA,FUNICULAR",
+    "walkSpeed": 1.3888888888888888,
+    "workerVersion": "v6.0.1",
+    "variantIndex": -1,
+    "projectId": "aac9b723-cead-49b5-aefd-019b3d4468e4",
+    "bounds": {
+      "north": 51.73272698009396,
+      "south": 51.19655758919004,
+      "east": 0.3927611466497183,
+      "west": -0.7794807851314545
+    },
+    "fromLat": 51.49581771059164,
+    "fromLon": -0.18340299837291243
+  }
