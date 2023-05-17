@@ -1,0 +1,21 @@
+{
+    "regionId": "abc123",
+    "analysisIds": [
+        "def456",
+        "ghi789"
+    ],
+    "cutoffs": [
+        30,
+        45,
+        60
+    ],
+    "pointSetIds": [
+        "uvw123",
+        "xyz456"
+    ],
+    "percentiles": [
+        25,
+        50,
+        75
+    ]
+}
