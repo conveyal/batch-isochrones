@@ -1,3 +1,3 @@
-Examples of how to download travel time surfaces (`.tiff` format) from [Conveyal Analysis](http://conveyal.com/analysis), extract travel time contours (isochrones), and save them as `.geojson`, or create a `.csv` of accessibility results, for multiple origins
-
-Details are in the jupyter lab notebook `batch-isos.ipynb` (viewable directly on GitHub)
+Examples of batch downloads from [Conveyal](http://conveyal.com/analysis):
+- Download travel time surfaces (in the `.tif` GeoTiff format) for multiple origins, extract travel time contours (isochrones), and save them as `.geojson` or create a `.csv` of accessibility results. See the `batch-isos.ipynb` jupyter lab notebook  (viewable directly on GitHub).
+- Download a .zip file of regional analysis results including all combinations of time cutoffs, percentiles, and destination layers (in the `.tif` GeoTiff format). See the `batch-result-download.ipynb` jupyter lab notebook (viewable directly on GitHub).
